@@ -1,0 +1,160 @@
+<resources>
+
+    <string name="app_name">eRadios</string>
+    <string name="AdmodID">ca-app-pub-8661158980292506~6897598477</string>
+    <string name="ProductID">eradio_all_pay</string>
+
+    <string-array name="navigation_drawer_items">
+        <item>Principal</item>
+        <item>Emisoras</item>
+        <item>Generos</item>
+        <item>Favoritos</item>
+        <item>Emisoras añadidas</item>
+        <item>Audios grabados</item>
+        <item>Pais</item>
+        <item>CopyRight</item>
+        <item>Reportar</item>
+        <item>Configuración</item>
+        <item>Salir</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_items_clon">
+        <item>Principal</item>
+        <item>Emisoras</item>
+        <item>Generos</item>
+        <item>Favoritos</item>
+        <item>Emisoras añadidas</item>
+        <item>Audios grabados</item>
+        <item>CopyRight</item>
+        <item>Reportar</item>
+        <item>Configuración</item>
+        <item>Salir</item>
+    </string-array>
+
+    <string-array name="drawermenu_descripcion_array">
+        <item>Radios online FM.</item>
+        <item>Aqui podras ver todas las emisoras para que disfrutes.</item>
+        <item>Aqui puedes buscar las emisoras por genero.</item>
+        <item>Aqui puedes ver tu emisoras favoritas.</item>
+        <item>Aqui puedes ver las emisoras que agregues manualmente.</item>
+        <item>Aqui puedes grabar y escuchar los audios que haces.</item>
+        <item>Aqui puedes seleccionar el pais que quiere escuchar.</item>
+        <item>Termino de uso. aqui puedes leer las condiciones.</item>
+        <item>Aqui puedes reportar las emisoras que no suenan.</item>
+        <item>Podras configurar la aplicacion a tu manera.</item>
+        <item>Para salir de la aplicacion</item>
+    </string-array>
+
+    <string-array name="drawermenu_descripcion_array_clon">
+        <item>Radios online FM.</item>
+        <item>Aqui podras ver todas las emisoras para que disfrutes.</item>
+        <item>Aqui puedes buscar las emisoras por genero.</item>
+        <item>Aqui puedes ver tu emisoras favoritas.</item>
+        <item>Aqui puedes ver las emisoras que agregues manualmente.</item>
+        <item>Aqui puedes grabar y escuchar los audios que haces.</item>
+        <item>Termino de uso. aqui puedes leer las condiciones.</item>
+        <item>Aqui puedes reportar las emisoras que no suenan.</item>
+        <item>Podras configurar la aplicacion a tu manera.</item>
+        <item>Para salir de la aplicacion</item>
+    </string-array>
+
+    <string name="TxtCargando">Cargando…</string>
+    <string name="subject">La emisora: </string>
+    <string name="TxtProcesando">Procesando emisora por favor espere…</string>
+    <string name="TxtSelecionandoTuPais">Seleccionando tu pais espere…</string>
+    <string name="TxtToast">Cargando por favor espere nota: Puede que la conexion influya</string>
+    <string name="TxtToastPais">Pais seleccionado…</string>
+    <string name="Terminos">Términos de uso</string>
+    <string name="TerminosUso">Aqui en esta app se encuentran las mejores emisoras y puedes escuchar y para compartir
+        en Facebook o Google+ de toda la red.\n\nComparte y haz que ellos también disfruten con estas emisoras que
+        subimos diariamente.\n\nEsta app recopila emisoras publicadas en la web. Sin embargo, de encontrar una emisora
+        que sea de su propiedad y que por error se encuentra en nuestro app, pues no dude en comunicárnoslo a este
+        correo: EcApps@outlook.es , que de inmediato lo eliminaremos de nuestra base de datos.</string>
+    <string name="TxtOpcioneRadio">Opciones del radio </string>
+    <string name="TxtNuevasCosas">Nuevas cosas en la siguiente version. </string>
+    <string name="TxtOpcioneRadioPais">Opciones de eRadios </string>
+    <string name="TxtSiTeGusto">Tomate un segundo para calificar esta app tu opinión es importante para nosotros. </string>
+    <string name="TxtDale5">Tomate un segundo. </string>
+    <string name="TxtEslogan">eRadios </string>
+    <string name="TxtPresSalir">Pulse atrás para salir. </string>
+    <string name="shareText">Descargar y disfrutar Las mejores emisoras en su dispositivo android.</string>
+    <string name="TxtHome">Home</string>
+    <string name="TxtEmisoras">Emisoras</string>
+    <string name="TxtGeneros">Generos</string>
+    <string name="TxtConfiguración">Configuración</string>
+    <string name="TxtCopyRight">CopyRight</string>
+    <string name="TxtReportar">Reportar</string>
+    <string name="TxtSalir">Salir</string>
+    <string name="TxtToasFavorito">Esta emisoras ahora esta en tus favoritas</string>
+    <string name="TxtToasAddEmisora">Emisora guardada con exito.!!!</string>
+    <string name="TxtMensaje">Quiere reproducir emisora o remover de la lista</string>
+    <string name="TxtTitle">Mensaje</string>
+    <string name="TxtEscuchar">Escuchar</string>
+    <string name="TxtRemover">Remover</string>
+    <string name="TxtActualizacion">Hay una nueva version quiere actualizar?</string>
+    <string name="TxtActualizar">Actualizar</string>
+    <string name="TxtContinuar">Continuar</string>
+    <string name="TxtCalificar">Calificar App</string>
+    <string name="TxtCompartir">Compartir App</string>
+    <string name="TxtTituloActualizacion">Actualizacion disponible</string>
+    <string name="TxtMensajeActualizacion">Hay una nueva version quiere actualizar?</string>
+    <string name="TxtEmisora"> Emisoras</string>
+    <string name="TxtFavoritos"> Favoritos</string>
+    <string name="TxtEmisoraAdd"> Emisoras añadidas</string>
+    <string name="TxtAudioRecord"> Audios grabados</string>
+    <string name="Txthint"> Buscar emisoras por nombre</string>
+    <string name="TxthintPais"> Buscar tu pais por nombre</string>
+    <string name="TxtBuscarEmisora">Buscar Emisoras </string>
+    <string name="TxtResultadoBusqueda">Resultado de busqueda</string>
+    <string name="TxtResultadoBusquedaDetalle">Emisoras no encontrada por favor intente mas tarde</string>
+    <string name="TxtResultadoBusquedaPaisDetalle">Pais no encontrado por favor intente mas tarde</string>
+    <string name="TxtNoNunca"> No nunca</string>
+    <string name="TxtMasTarde"> Mas tarde</string>
+    <string name="TxtAgregarEmisora"> Añadir emisoras</string>
+    <string name="TxtAcercaDe"> Acerca de</string>
+    <string name="TxtPromocion"> Promoción app</string>
+    <string name="TxtSobreNosotros"> Sobre nosotros</string>
+    <string name="TxtApoyanosEnFacebook"> Apoyanos en facebook</string>
+    <string name="TxtAcercaDeDetalle">eRadios te Ofrece muchos diferente canales de emisoras para usuarios moviles aqui puedes encontrar las emisoras mas rapido y facil en cualquier lugar que estes. Tambien puedes agregar manualmente las emisoras que gustes.</string>
+    <string name="TxtSobreNosotrosDetalle">EcApps una empresa innovadora de hacer aplicaciones en múltiples plataforma móviles.\n\nSomos profesionales haciendo aplicaciones móviles creamos todo tipo de aplicaciones para usuario o Empresa. \n\nSi quieres una consultoría solo tienes que hacer contacto con nosotros.\n\nCorreo: EcApps@outlook.es</string>
+    <string name="TxtNombreEmisora">Nombre emisora:</string>
+    <string name="TxtUrlStreaming">Url streaming:</string>
+    <string name="TxtFrecuencia">Frecuencia:</string>
+    <string name="Txtnohttp">Error revisa la url</string>
+    <string name="TxtnohttpDetalle">Tiene que contener http://</string>
+    <string name="TxthayEspacioVacio">No puede dejar emisora ni frecuencia vacio</string>
+    <string name="TxtGrabando">Grabando el audio…</string>
+    <string name="TxtAudioGuardado">Audio guardado con exito…</string>
+    <string name="Txtsugerencia"> Sugerencia</string>
+    <string name="TxtSeleccionarPais"> Tiene que seleccionar un pais</string>
+    <string name="TxtPais">Pais</string>
+    <string name="MensajeFavoritoSelect">Tiene que seleccionar una emisora</string>
+    <string name="TxtAddFav">Añadir a favorito</string>
+    <string name="TxtConfOpcio">Opciones de Inicio</string>
+    <string name="TxtInicEmisoraDes">Si selecciona esta opción Cuando Entre No va ha iniciar la Emisora</string>
+    <string name="TxtInicEmisora">Iniciar Emisora</string>
+    <string name="TxtAhorrBateriaDes">Esta opción es para que consuma menos batería</string>
+    <string name="TxtAhorrBateria">Ahorro Batería</string>
+    <string name="txtRemoverAds">Remover Anuncios</string>
+    <string name="txtRemoverAdsClick"> Versión Pro para remover anuncios click aqui.</string>
+    <string name="txtMegusta"> Me gusta</string>
+    <string name="txtShare"> Compartir</string>
+    <string name="txtGracias"> Gracias…</string>
+    <string name="txtMasEmisoras">Mas emisoras</string>
+    <string name="txtHabilitarInternet">Debe habilitar la conexión de datos (WIFI o 3G)</string>
+    <string name="play_station">Play station</string>
+    <string name="current_station">Station currently playing</string>
+    <string name="current_url">Url of currently playing station</string>
+    <string name="play_pause">play or pause</string>
+    <string name="pause">pause</string>
+    <string name="play">play</string>
+    <string name="channel">Playback</string>
+    <string name="please_wait">Searching…</string>
+    <string name="MensajeRemoverAnuncio">Remover Anuncio o Comprar App</string>
+    <string name="MensajeRemoverAnuncioDetalle">Remueve los anuncios de esta aplicacion o compra la version PRO</string>
+    <string name="VersionPro">Version PRO</string>
+    <string name="Restaurar">Restaurar Compra</string>
+    <string name="txtMensajeComprar">Compra Exitosa…</string>
+    <string name="txtGraciasPorSuCompra">Gracias por su compra disfrute la version sin anuncios</string>
+    <string name="txtErrorComprandoApp">Ocurrio un error haciendo la compra intente mas tarde</string>
+</resources>
